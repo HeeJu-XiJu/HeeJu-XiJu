@@ -20,8 +20,6 @@ Hi! I'm HeeJu 😎
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeeJu-XiJu&layout=compact)](https://github.com/HeeJu-XiJu/github-readme-stats)
-
-<img src="https://github-readme-stats.vercel.app/api?username=HeeJu-XiJu&show_icons=true">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HeeJu-XiJu&show_icons=true&theme=radical)
 
 </div>
