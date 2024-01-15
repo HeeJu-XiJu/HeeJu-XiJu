@@ -13,8 +13,8 @@ Hi! I'm HeeJu 😎
 
 👩‍💻 SNS \
 <br>
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hhjjoa96@gmail.com)
-[![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://heejudeveloper.tistory.com/)
+![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) hhjjoa96@gmail.com
+![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white) https://heejudeveloper.tistory.com/
 
 <br>
 
