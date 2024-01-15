@@ -1,5 +1,5 @@
 <div align=center> 
-# Hi! I'm HeeJu 😎
+<h1> Hi! I'm HeeJu 😎 </h1>
 
 <br></br>
 
