@@ -1,5 +1,5 @@
 <div align=center> 
-Hi! I'm HeeJu 😎 \
+Hi! I'm HeeJu 😎
 
 <br>
 
