@@ -20,6 +20,6 @@ Hi! I'm HeeJu 😎
 
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HeeJu-XiJu&show_icons=true&theme=material-palenight)
+[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=HeeJu-XiJu&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/HeeJu-XiJu/github-readme-stats#gh-dark-mode-only)
 
 </div>
