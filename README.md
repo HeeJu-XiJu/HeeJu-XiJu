@@ -11,15 +11,17 @@ Hi! I'm HeeJu 😎
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+<br>
+
 👩‍💻 SNS \
 <br>
-![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) hhjjoa96@gmail.com
-![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white) https://heejudeveloper.tistory.com/
+🍎 mail : hhjjoa96@gmail.com \
+🍋 blog : https://heejudeveloper.tistory.com/
 
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeeJu-XiJu&layout=compact)](https://github.com/HeeJu-XiJu/github-readme-stats)
 
-![States](<img src="https://github-readme-stats.vercel.app/api?username=HeeJu-XiJu&show_icons=true">)
+<img src="https://github-readme-stats.vercel.app/api?username=HeeJu-XiJu&show_icons=true">
 
 </div>
